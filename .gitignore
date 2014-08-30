@@ -3,3 +3,4 @@ rebel.xml
 .classpath
 .project
 target
+flyway.properties
